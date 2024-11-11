@@ -1,5 +1,6 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-
+### Name : Arshitha MS
+### Register Number : 212223240015
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
